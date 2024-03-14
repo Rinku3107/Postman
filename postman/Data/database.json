@@ -1,5 +1,22 @@
 [
     {
-        "name":"Rinku"
+        "name":"Rinku",
+        "age": "25",
+        "city": "Surat"
+    },
+    {
+        "name":"alok",
+        "age": "20",
+        "city": "nandanvan"
+    },
+    {
+        "name":"keyur",
+        "age": "24",
+        "city": "kamrej"
+    },
+    {
+        "name":"pankaj",
+        "age": "29",
+        "city": "up"
     }
 ]
